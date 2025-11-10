@@ -22,7 +22,7 @@
 
     /* ====== Header ====== */
     header {
-      background: #B6A9DE;
+      background: #92a8caff;
       color: black;
       padding: 15px 30px;
       display: flex;
@@ -55,7 +55,7 @@
     main {
       flex: 1;
       padding: 40px;
-      background: #E8E7FE;
+      background: #88aedfff;
     }
 
     main h2 {
@@ -64,7 +64,7 @@
 
     /* ====== Footer ====== */
     footer {
-      background: #BBC0FC;
+      background: #405b7eff;
       color: black;
       text-align: center;
       padding: 15px 0;
@@ -80,7 +80,7 @@
 	</Main>
 
 	<footer>
-<p>Realizado por: Nallely Marmolejo </p>
+<p>Realizado Por: Nallely Marmolejo Salas</p>
 	</footer>
 </body>
 </html>
